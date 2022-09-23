@@ -97,7 +97,8 @@
         "torrent_dl_no_permission": "You do not have permission to save the torrent in the selected download folder.",
         "upload_complete": "Upload complete!",
         "login_failed": "Login failed!",
-        "was_not_found": "was not found"
+        "was_not_found": "was not found",
+        "restart_required": "Please restart the program for the changes to take effect."
     },
     "file_dialogs": {
         "select_images": "Select Image(s)",
